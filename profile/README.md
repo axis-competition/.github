@@ -1,96 +1,44 @@
-<div align="center">
+# AXIS
 
-# 🌐 Selamat Datang di AXIS 2026
-## **Application eXcellence in Information Systems**
-### *National Web Development Competition*
+**Application eXcellence in Information Systems**
 
-<p align="center">
-  <em>"Where Innovation Meets Web Technology"</em>
-</p>
+*Where Innovation Meets Web Technology*
 
-[![Portal Web](https://img.shields.io/badge/Website-axis--2026-black?style=for-the-badge&logo=googlechrome)](https://axis-competition.github.io/axis-2026/)
-[![Guidebook](https://img.shields.io/badge/Guidebook-Online_Reader-black?style=for-the-badge&logo=gitbook)](https://axis-competition.github.io/axis-2026/guidebook.html)
-[![Status Pendaftaran](https://img.shields.io/badge/Status-Registration_Open-success?style=for-the-badge&logo=github)](https://forms.gle/5QWPv4pqVaXKXz3i7)
-[![Stack Wajib](https://img.shields.io/badge/Stack-PHP_%7C_MySQL-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/axis-competition/axis-2026)
-[![Target Peserta](https://img.shields.io/badge/Peserta-Mahasiswa_S1-black?style=for-the-badge&logo=academia)](https://github.com/axis-competition/axis-2026)
+AXIS adalah kompetisi bagi mahasiswa untuk mengembangkan solusi berbasis web bagi organisasi dan dunia usaha. Halaman ini memuat informasi tiap edisi, panduan peserta, dan repositori resmi.
 
-<br>
+## Batch 1: Frontend Development Competition
 
-> **Tema Kompetisi:**  
-> *"Empowering Organizations & Digital Enterprises through Resilient Web Architectures"*
+Edisi perdana AXIS diselenggarakan sebagai bagian dari **GALAKSI 2026**. Peserta merancang dan membangun antarmuka web yang responsif dan interaktif. Framework frontend bebas. Data simulasi atau API dapat digunakan agar juri dapat mencoba alur utama karya.
 
-<br>
+**Tema:** *Empowering Organizations & Digital Enterprises through Innovative and User-Centered Web Interfaces.*
 
-[🌐 **Portal Website**](https://axis-competition.github.io/axis-2026/) &nbsp;•&nbsp; 
-[📖 **Buku Panduan (Web)**](https://axis-competition.github.io/axis-2026/guidebook.html) &nbsp;•&nbsp; 
-[📝 **Form Pendaftaran**](https://forms.gle/5QWPv4pqVaXKXz3i7) &nbsp;•&nbsp; 
-[📤 **Form Pengumpulan**](https://forms.gle/z6LmuzqaYRqVUZaNA) &nbsp;•&nbsp; 
-[📦 **Template Submisi**](https://github.com/axis-competition/submission-template) &nbsp;•&nbsp; 
-[💬 **WhatsApp Panitia**](https://wa.me/6285181079659)
+## Rencana Batch 2: Web Development Competition
 
-</div>
+Untuk edisi kedua, panitia berharap AXIS dapat diselenggarakan secara mandiri dengan cakupan pengembangan aplikasi web yang lebih luas. Format ini masih dalam tahap perencanaan.
 
----
+## Panduan peserta Batch 1
 
-### 💡 Tentang Organisasi & Kompetisi
+Terbuka bagi mahasiswa aktif S1 di seluruh Indonesia. Setiap tim terdiri atas 2 sampai 4 mahasiswa dari perguruan tinggi yang sama. Anggota boleh berasal dari program studi dan angkatan berbeda. Biaya pendaftaran Rp50.000 per tim.
 
-**AXIS 2026** *(Application eXcellence in Information Systems)* adalah cabang kompetisi rekayasa aplikasi web berskala nasional yang diselenggarakan dalam rangkaian kegiatan resmi **GALAKSI 2026**.
+| Kategori | Contoh alur yang dapat dikembangkan |
+| --- | --- |
+| A. Business & Enterprise Digitalization | Menelusuri katalog produk dan memantau persediaan. |
+| B. Organizational Management & Governance | Mengajukan layanan dan melacak status permohonan. |
+| C. Collaborative Digital Enterprise Platform | Membagi tugas dan memantau progres proyek tim. |
 
-Organisasi ini mewadahi seluruh ekosistem digital kompetisi: publikasi panduan resmi, repositori template standar bagi peserta, serta sistem pengumpulan dan verifikasi karya berbasis GitHub.
+Setiap tim mengumpulkan tautan website aktif, repositori GitHub publik dengan README, ringkasan karya dalam PDF sepanjang 3 sampai 5 halaman, serta video demonstrasi maksimal 3 menit.
 
----
+| Tahapan Batch 1 | Jadwal |
+| --- | --- |
+| Publikasi | 20 November 2026 |
+| Pendaftaran | 20 sampai 30 November 2026 |
+| Pengembangan dan pengumpulan karya | 20 November sampai 9 Desember 2026, pukul 23.59 WIB |
+| Penjurian | 10 sampai 11 Desember 2026 |
+| Pengumuman pemenang pada acara puncak GALAKSI | 12 Desember 2026 |
 
-### 📂 Repositori Resmi Organisasi
+## Tautan resmi Batch 1
 
-| Repositori | Status | Deskripsi & Fungsi Utama |
-| :--- | :---: | :--- |
-| [**axis-2026**](https://github.com/axis-competition/axis-2026) | 🌐 Public | **Pusat Informasi & Landing Page**. Berisi kode sumber portal web interaktif, web guidebook siap cetak PDF, dan berkas panduan lengkap (*GUIDEBOOK.md*). |
-| [**submission-template**](https://github.com/axis-competition/submission-template) | 📦 Public | **Template Repositori Peserta**. Repositori template resmi yang wajib di-*fork* atau di-*clone* oleh seluruh tim peserta untuk menyusun kode sumber dan berkas luaran. |
-| **participant-repositories** | 🔒 Private | **Arsip Submisi Panitia & Juri**. Ruang internal panitia pelaksana dan dewan juri untuk proses verifikasi, inspeksi kode, dan penilaian karya. |
-
----
-
-### 👥 Ketentuan Pokok Peserta
-
-* **Sasaran**: Terbuka bagi seluruh mahasiswa aktif jenjang **Sarjana (S1)** dari PTN maupun PTS di seluruh Indonesia.
-* **Tim**: Beranggotakan **2 sampai 4 orang** dari perguruan tinggi yang sama (diperbolehkan lintas jurusan/fakultas/angkatan).
-* **Biaya Pendaftaran**: **Rp50.000,-** per tim.
-* **Teknologi Wajib**: Backend **PHP** (Native atau Framework) dan Database **MySQL / MariaDB**. Frontend bebas (HTML/CSS/JS/Framework).
-
----
-
-### 🎯 Kategori Studi Kasus
-
-1. **Kategori A - Business & Enterprise Digitalization**  
-   Fokus pada digitalisasi proses operasional bisnis terpadu: katalog barang, pencatatan transaksi pembelian/penjualan, integrasi stok persediaan, dan pelaporan komersial.
-2. **Kategori B - Organizational Management & Governance**  
-   Fokus pada tata kelola administrasi organisasi: portal pengajuan surat/layanan, verifikasi dokumen, alur persetujuan berjenjang (*approval flow*), dan pelacakan status permohonan transparan.
-3. **Kategori C - Collaborative Digital Enterprise Platform**  
-   Fokus pada platform kerja kolaboratif tim: pembagian tugas (*task assignment*), pemantauan progres proyek (*progress tracking*), dan kontrol hak akses menu berbasis peran (*RBAC*).
-
----
-
-### 📅 Jadwal Pelaksanaan (Timeline)
-
-| No | Tahap Kegiatan | Rentang Waktu | Deskripsi Singkat |
-| :-: | :--- | :--- | :--- |
-| **01** | **Publikasi Lomba Resmi** | 20 November 2026 | Pembukaan sosialisasi kompetisi & rilis buku panduan |
-| **02** | **Periode Pendaftaran Tim** | **20 - 30 November 2026** | Pengisian formulir pendaftaran & pembayaran biaya registrasi |
-| **03** | **Pengembangan & Submisi Karya** | **20 Nov - 9 Des 2026** | Masa pengerjaan karya (Deadline: **9 Desember 2026, 23.59 WIB**) |
-| **04** | **Proses Penjurian** | **10 - 11 Desember 2026** | Evaluasi live system, repositori GitHub, dokumen PDF & video demo |
-| **05** | **Pengumuman Pemenang** | **Sabtu, 12 Desember 2026** | Pengumuman juara pada Acara Puncak GALAKSI 2026 |
-
----
-
-### 📞 Kontak & Media Informasi
-
-Jika Anda memiliki pertanyaan mengenai teknis kompetisi, silakan menghubungi:
-* 💬 **WhatsApp Panitia**: [**+62 851-8107-9659**](https://wa.me/6285181079659)
-* 🌐 **Website**: [**axis-competition.github.io/axis-2026**](https://axis-competition.github.io/axis-2026/)
-* 📧 **Email / Kanal Resmi**: Terhubung dengan rangkaian kegiatan **GALAKSI 2026**
-
----
-
-<div align="center">
-  <p>© 2026 Application eXcellence in Information Systems ( AXIS )</p>
-</div>
+- [Website AXIS 2026](https://axis-competition.github.io/axis-2026/) dan [guidebook peserta](https://axis-competition.github.io/axis-2026/guidebook.html)
+- [Formulir pendaftaran](https://forms.gle/5QWPv4pqVaXKXz3i7) dan [formulir pengumpulan karya](https://forms.gle/z6LmuzqaYRqVUZaNA)
+- [Repositori AXIS 2026](https://github.com/axis-competition/axis-2026) dan [template repositori peserta](https://github.com/axis-competition/submission-template)
+- [WhatsApp panitia](https://wa.me/6285181079659)
